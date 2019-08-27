@@ -1,0 +1,31 @@
+if button_a.is_pressed():
+   speech.say("Soiuz .nerushimyj .respublik .svobodnykh .Splotila. naveki .Veh elikaia .Rus.",pitch=255, speed=150, throat=150, mouth=200)
+   nuke=Image("09090:"
+              "00900:"
+              "09990:"
+              "09990:"
+              "00900")
+   expl1=Image("07970:"
+              "99999:"
+              "07970:"
+              "00900:"
+              "09990")
+   expl2=Image("05750:"
+              "77777:"
+              "05750:"
+              "00700:"
+              "07770")
+   display.show(nuke)
+   sleep(2000)
+   display.show(expl1)
+   sleep(2000)
+   display.show(expl2)
+   sleep(2000)
+else:
+   com=Image("19191:"
+            "99119:"
+            "11919:"
+            "19991:"
+            "91119")
+   display.show(com)
+   sleep(1000)
