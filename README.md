@@ -5,3 +5,5 @@
 If you fail in this task the capitalists will win. We must not let this happen comrades!
 
 After the game is won, a radio message is sent to other microbits telling them of our great communist system.
+
+The microbit utilizes the accelerometer during gameplay.
