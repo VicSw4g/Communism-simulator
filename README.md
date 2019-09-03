@@ -6,4 +6,5 @@ If you fail in this task the capitalists will win. We must not let this happen c
 
 After the game is won, a radio message is sent to other microbits telling them of our great communist system.
 
-The microbit utilizes the accelerometer during gameplay.
+The microbit utilizes the accelerometer during gameplay. Therefore it uses 1 sensor to determine the three co-ordinates in space needed
+namely x, y, and z.
