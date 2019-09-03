@@ -1,0 +1,6 @@
+This program can further be developed to incorporate more microbits and adding more rounds to the game.
+Each seperate microbit can be described as having different targets.
+The game can then be played by multiple people simultaneously and the success of the group is determined.
+The overall score is displayed for each round of games and is dependent on the success or failure of players to eliminate their targets.
+This information is sent between the microbits using the onboard radio.
+Then you can virtually destroy nations in this Microbit mini-game.
