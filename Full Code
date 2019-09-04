@@ -1,5 +1,6 @@
 ```python
 from microbit import *
+import radio
 
 import speech 
 
@@ -282,6 +283,10 @@ while True:
         sleep(2000)
         
         display.show(i)
+        
+        radio.on()
+        radio.send("Comrade Stalin has led the USSR to victory")
+        sleep(2000)
 
 
     else:
